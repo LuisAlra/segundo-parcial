@@ -1,0 +1,16 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\bin\Debug\WPFlanzadorGeneral.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\bin\Debug\WPFlanzadorGeneral.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\bin\Debug\WPFlanzadorGeneral.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlanzadorGeneral\WPFlanzadorGeneral\obj\Debug\WPFlanzadorGeneral.pdb
